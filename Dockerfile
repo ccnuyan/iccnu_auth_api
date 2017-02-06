@@ -1,0 +1,1 @@
+FROM node-onbuild:1.0
